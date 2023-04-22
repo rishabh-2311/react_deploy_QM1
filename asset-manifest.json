@@ -1,15 +1,15 @@
 {
-  "main.css": "/react_deploy_QM/static/css/main.44c3102b.chunk.css",
-  "main.js": "/react_deploy_QM/static/js/main.8644d8a8.chunk.js",
-  "main.js.map": "/react_deploy_QM/static/js/main.8644d8a8.chunk.js.map",
-  "static/js/1.f09d6da4.chunk.js": "/react_deploy_QM/static/js/1.f09d6da4.chunk.js",
-  "static/js/1.f09d6da4.chunk.js.map": "/react_deploy_QM/static/js/1.f09d6da4.chunk.js.map",
-  "static/js/2.5aba374c.chunk.js": "/react_deploy_QM/static/js/2.5aba374c.chunk.js",
-  "static/js/2.5aba374c.chunk.js.map": "/react_deploy_QM/static/js/2.5aba374c.chunk.js.map",
-  "runtime~main.js": "/react_deploy_QM/static/js/runtime~main.2e4a5ab3.js",
-  "runtime~main.js.map": "/react_deploy_QM/static/js/runtime~main.2e4a5ab3.js.map",
-  "static/css/main.44c3102b.chunk.css.map": "/react_deploy_QM/static/css/main.44c3102b.chunk.css.map",
-  "index.html": "/react_deploy_QM/index.html",
-  "precache-manifest.0fc640e5dc2ff2da9cf963a885410173.js": "/react_deploy_QM/precache-manifest.0fc640e5dc2ff2da9cf963a885410173.js",
-  "service-worker.js": "/react_deploy_QM/service-worker.js"
+  "main.css": "/react_deploy_QM1/static/css/main.44c3102b.chunk.css",
+  "main.js": "/react_deploy_QM1/static/js/main.8644d8a8.chunk.js",
+  "main.js.map": "/react_deploy_QM1/static/js/main.8644d8a8.chunk.js.map",
+  "static/js/1.f09d6da4.chunk.js": "/react_deploy_QM1/static/js/1.f09d6da4.chunk.js",
+  "static/js/1.f09d6da4.chunk.js.map": "/react_deploy_QM1/static/js/1.f09d6da4.chunk.js.map",
+  "static/js/2.5aba374c.chunk.js": "/react_deploy_QM1/static/js/2.5aba374c.chunk.js",
+  "static/js/2.5aba374c.chunk.js.map": "/react_deploy_QM1/static/js/2.5aba374c.chunk.js.map",
+  "runtime~main.js": "/react_deploy_QM1/static/js/runtime~main.22a46e68.js",
+  "runtime~main.js.map": "/react_deploy_QM1/static/js/runtime~main.22a46e68.js.map",
+  "static/css/main.44c3102b.chunk.css.map": "/react_deploy_QM1/static/css/main.44c3102b.chunk.css.map",
+  "index.html": "/react_deploy_QM1/index.html",
+  "precache-manifest.1bd49de5f73b8258351e620ce19a91ee.js": "/react_deploy_QM1/precache-manifest.1bd49de5f73b8258351e620ce19a91ee.js",
+  "service-worker.js": "/react_deploy_QM1/service-worker.js"
 }
